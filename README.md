@@ -1,4 +1,4 @@
-# iOS App Redesigns
+# iOS Apps Redesign
 
 A Figma-based redesign of iOS default apps: Messages, Wallet, Safari, and Calculator.
 
